@@ -13,5 +13,6 @@ language.
         1.1.2 [2D Arrays - DS](./HackerRank/Data-Structures/2D-Arrays-DS/)  
         1.1.3 [Dynamic Array](./HackerRank/Data-Structures/Dynamic-Array/)  
         1.1.4 [Left Rotation](./HackerRank/Data-Structures/Left-Rotation/)  
+        1.1.5 [Sparse Arrays](./HackerRank/Data-Structures/Sparse-Arrays/)  
   
 2. [LeetCode](https://leetcode.com/)
